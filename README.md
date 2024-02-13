@@ -1,7 +1,10 @@
+
+<div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhrMTQ3Zm9hZ3VrY3owN2hqY3VxbWxmcnJnYmdkdjNjeDNhMmp4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lcs5BL0NIM4WMv61a9/200.webp"/> 
+</div>
+
 ### Olá 👋 
 ### Eu sou o Gabriel 
-
-
 - 🔭 Em busca do meu primeiro emprego na área da tecnologia
 - 🌱 Estou estudando sobre desenvolvimento Full Stack
 - 😄 Pronouns: Ele/Dele
