@@ -6,9 +6,8 @@
 ### Olá 👋 
 ### Eu sou o Gabriel 
 - 🔭 Em busca do meu primeiro emprego na área da tecnologia
-- 🌱 Estou estudando sobre desenvolvimento Full Stack
 - 😄 Pronouns: Ele/Dele
-- ⚡ Apaixonado por esportes
+- ⚡ Apaixonado por esportes e tecnologia
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielmvaladao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
