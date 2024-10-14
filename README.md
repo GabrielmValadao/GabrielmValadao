@@ -10,6 +10,8 @@
 
 ## Tecnologia que estou estudando no momento
 <img src="https://img.shields.io/badge/react-E34F26?style=for-the-badge&logo=react&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/aws-E34F26?style=for-the-badge&logo=react&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/devops-E34F26?style=for-the-badge&logo=react&logoColor=white"><nobr>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielmValadao&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Valadão github stats" /> 
