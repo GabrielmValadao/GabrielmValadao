@@ -40,6 +40,6 @@
 ##
 ### Contato
 <a href="mailto:metzdorfgabriel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"  /></a>
-<a href="[https://www.linkedin.com/in/gabriel-desenvolvedorfullstack/](https://www.linkedin.com/in/gabrieldesenvolvedorfullstack/)" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  /></a>
+<a href="[https://www.linkedin.com/in/gabrieldesenvolvedorfullstack/](https://www.linkedin.com/in/gabrieldesenvolvedorfullstack/)" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  /></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
