@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=51a5a9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Valadão;Tenho+26+anos;Seja+bem+vindo)](https://git.io/typing-svg)
 ## Sobre mim
 * Meu nome completo é Gabriel Metzdorf Valadão, nascido e criado no Rio Grande do Sul, na cidade de Santa Cruz do Sul. Estudo programação a 3 anos e estou em busca da minha primeira oportunidade profissional na área! Recentemente, concluí uma formação intensiva na área e estou atualmente realizando uma certificação AWS Cloud Practitioner, agora iniciei uma graduação na área com o curso de Análise e Desenvolvimento de Sistemas na PUC/RS. Busco a minha primeira oportunidade em tecnologia, onde possa aplicar meus conhecimentos e crescer profissionalmente em projetos desafiantes.
-* Sou apaixonado por tecnologia e esportes :)
+
+* Sou apaixonado por tecnologia,esportes e café :)
 
 ## Formação
 * Cursando Análise e Desenvolvimento de Sistema PUC/RS (previsão de conclusão Junho/2027)
