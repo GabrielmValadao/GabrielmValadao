@@ -6,6 +6,7 @@
 * Sou apaixonado por tecnologia e esportes :)
 
 ## Formação
+* Cursando Análise e Desenvolvimento de Sistema PUC/RS (previsão de conclusão Junho/2027)
 * Desenvolvedor FullStack pelo SENAI
 
 ## Tecnologia que estou estudando no momento
